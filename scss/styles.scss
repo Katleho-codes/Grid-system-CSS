@@ -258,10 +258,13 @@ blockquote.long-description {
     }
 
     blockquote.long-description {
+        font-size: 14px;
         text-align: center;
+        margin: auto;
     }
 
     .items {
+        padding: 1rem;
         grid-column: 1 / span 4;
         width: 100%;
     }
