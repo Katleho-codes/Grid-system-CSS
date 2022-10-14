@@ -168,14 +168,16 @@ body {
 
 .short-description {
   font-weight: 500;
-  font-size: 24px;
+  font-size: 22px;
 }
 
-.long-description {
+blockquote.long-description {
   font-size: 14px;
   font-weight: 500;
-  word-wrap: break-word;
+  text-align: left;
   margin-top: 22px;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 @media (max-width: 800px) {
