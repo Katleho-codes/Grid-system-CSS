@@ -257,6 +257,10 @@ blockquote.long-description {
         margin: 14% auto;
     }
 
+    blockquote.long-description {
+        text-align: center;
+    }
+
     .items {
         grid-column: 1 / span 4;
         width: 100%;
